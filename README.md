@@ -38,6 +38,7 @@ Python · MySQL · Bash
 | Lab | Frameworks | Writeup |
 |-----|------------|---------|
 | Hospital Cybersecurity Audit Scenario | ISO 27001, PIPEDA, PDCA | [View](https://github.com/Oscar102001/Cybersecurity-Fundamentals/blob/main/hospital-iso27001-audit.md) |
+Install & Run GoPhish Phishing Framework | GoPhish, Linux, CLI | [View](https://github.com/Oscar102001/Cybersecurity-Fundamentals/blob/main/Install&Run-GoPhish-Phishing-Framework.md) |
 
 ### 🔵 SOC & Blue Team
 | Lab | Tools | Writeup |
