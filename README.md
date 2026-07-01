@@ -33,7 +33,27 @@ Python · MySQL · Bash
 ---
 
 ## 📂 Cybersecurity Portfolio
-(woking)
+## 📂 Cybersecurity Portfolio
+
+### 📋 Cybersecurity Fundamentals & GRC
+| Lab | Frameworks | Writeup |
+|-----|------------|---------|
+| Hospital Cybersecurity Audit Scenario | ISO 27001, PIPEDA, PDCA | [View](https://github.com/Oscar102001/Cybersecurity-Fundamentals/blob/main/hospital-iso27001-audit.md) |
+
+### 🔵 SOC & Blue Team
+| Lab | Tools | Writeup |
+|-----|-------|---------|
+| Coming soon | | |
+
+### 🔴 Penetration Testing
+| Lab | Tools | Writeup |
+|-----|-------|---------|
+| Coming soon | | |
+
+### 🟣 TryHackMe
+| Room | Category | Writeup |
+|------|----------|---------|
+| Coming soon | | |
 ---
 
 ## 📫 Connect with Me
