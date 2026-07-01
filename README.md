@@ -33,7 +33,6 @@ Python · MySQL · Bash
 ---
 
 ## 📂 Cybersecurity Portfolio
-## 📂 Cybersecurity Portfolio
 
 ### 📋 Cybersecurity Fundamentals & GRC
 | Lab | Frameworks | Writeup |
