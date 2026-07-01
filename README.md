@@ -6,11 +6,11 @@ Computer Engineering Student | Cybersecurity & Systems
 
 ## About Me
 
-🎓 Bachelor's in Computer Engineering at UOC (Barcelona)
-🔐 Cybersecurity Diploma at CICCC (Vancouver, Canada)
-🌍 Lived and studied in Spain, Australia, and Canada
-📍 Relocating to Galway, Ireland
-🎯 Looking for SOC Analyst & Systems roles in Ireland
+- 🎓 Bachelor's in Computer Engineering at UOC (Barcelona)
+- 🔐 Cybersecurity Diploma at CICCC (Vancouver, Canada)
+- 🌍 Lived and studied in Spain, Australia, and Canada
+- 📍 Relocating to Galway, Ireland
+- 🎯 Looking for SOC Analyst & Systems roles in Ireland
 
 ## Skills & Tools
 
