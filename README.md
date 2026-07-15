@@ -33,27 +33,13 @@ Python · MySQL · Bash
 
 ## 📂 Cybersecurity Portfolio
 
-### 📋 Cybersecurity Fundamentals & GRC
-| Lab | Frameworks | Writeup |
-|-----|------------|---------|
-| Hospital Cybersecurity Audit Scenario | ISO 27001, PIPEDA, PDCA | [View](https://github.com/Oscar102001/Cybersecurity-Fundamentals/blob/main/hospital-iso27001-audit.md) |
-Install & Run GoPhish Phishing Framework | GoPhish, Linux, CLI | [View](https://github.com/Oscar102001/Cybersecurity-Fundamentals/blob/main/Install&Run-GoPhish-Phishing-Framework.md) |
+### 📋 [Cybersecurity Fundamentals & GRC](https://github.com/Oscar102001/Cybersecurity-Fundamentals/blob/main/README.md)
 
-### 🔵 SOC & Blue Team
-| Lab | Tools | Writeup |
-|-----|-------|---------|
-| Coming soon | | |
+### 🔵 [SOC & Blue Team](https://github.com/Oscar102001/SOC-Labs/blob/main/README.md)
 
-### 🔴 Penetration Testing
-| Lab | Tools | Writeup |
-|-----|-------|---------|
-| Coming soon | | |
+### 🔴 [Penetration Testing](https://github.com/Oscar102001/Penetration-Testing-Labs/blob/main/README.md)
 
-### 🟣 TryHackMe
-| Room | Category | Writeup |
-|------|----------|---------|
-| Coming soon | | |
----
 
-## 📫 Connect with Me
+
+### 📫 Connect with Me
 www.linkedin.com/in/oscar-munoz-lopez-2698483aa
